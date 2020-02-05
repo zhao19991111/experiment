@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/experiment/static/css/main.3c386395.chunk.css",
+    "main.js": "/experiment/static/js/main.b170109b.chunk.js",
+    "main.js.map": "/experiment/static/js/main.b170109b.chunk.js.map",
+    "runtime-main.js": "/experiment/static/js/runtime-main.5ab5b131.js",
+    "runtime-main.js.map": "/experiment/static/js/runtime-main.5ab5b131.js.map",
+    "static/js/2.83227235.chunk.js": "/experiment/static/js/2.83227235.chunk.js",
+    "static/js/2.83227235.chunk.js.map": "/experiment/static/js/2.83227235.chunk.js.map",
+    "index.html": "/experiment/index.html",
+    "precache-manifest.94866a552abf6bf849dbad5cd404a079.js": "/experiment/precache-manifest.94866a552abf6bf849dbad5cd404a079.js",
+    "service-worker.js": "/experiment/service-worker.js",
+    "static/css/main.3c386395.chunk.css.map": "/experiment/static/css/main.3c386395.chunk.css.map",
+    "static/js/2.83227235.chunk.js.LICENSE.txt": "/experiment/static/js/2.83227235.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/experiment/static/media/1.c34d14fb.jpg",
+    "static/media/11.jpg": "/experiment/static/media/11.5ae968ec.jpg",
+    "static/media/2.jpg": "/experiment/static/media/2.c342a30a.jpg",
+    "static/media/22.jpg": "/experiment/static/media/22.59156544.jpg",
+    "static/media/3.jpg": "/experiment/static/media/3.d29b2fad.jpg",
+    "static/media/33.jpg": "/experiment/static/media/33.80a0941e.jpg",
+    "static/media/4.jpg": "/experiment/static/media/4.c7366cfe.jpg",
+    "static/media/44.jpg": "/experiment/static/media/44.6e5caa47.jpg",
+    "static/media/5.jpg": "/experiment/static/media/5.3f7b0bcb.jpg",
+    "static/media/6.jpg": "/experiment/static/media/6.d0b0699a.jpg",
+    "static/media/Forza.jpg": "/experiment/static/media/Forza.a3e20ffc.jpg",
+    "static/media/sstyle.css": "/experiment/static/media/Night2.4fbfbd6a.jpg",
+    "static/media/a.jpg": "/experiment/static/media/a.d1138799.jpg",
+    "static/media/b.jpg": "/experiment/static/media/b.c503b6ca.jpg",
+    "static/media/c.jpg": "/experiment/static/media/c.c9232387.jpg",
+    "static/media/comment_data.txt": "/experiment/static/media/comment_data.c7f917ba.txt",
+    "static/media/d.jpg": "/experiment/static/media/d.b71f38cd.jpg",
+    "static/media/e.jpg": "/experiment/static/media/e.7235a072.jpg",
+    "static/media/f.jpg": "/experiment/static/media/f.369c709a.jpg",
+    "static/media/player.jpg": "/experiment/static/media/player.9a95f45e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab5b131.js",
+    "static/js/2.83227235.chunk.js",
+    "static/css/main.3c386395.chunk.css",
+    "static/js/main.b170109b.chunk.js"
+  ]
+}
